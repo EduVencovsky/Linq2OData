@@ -10,7 +10,7 @@ using Linq2OData.Core;
 namespace Linq2OData.Tests
 {
     [TestClass]
-    public class ODataFilterTest
+    public class ODataFilterVisitorTest
     {
 
         public static int StaticConst = 1;

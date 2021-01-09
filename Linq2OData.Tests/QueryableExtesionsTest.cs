@@ -10,7 +10,7 @@ using Linq2OData.Core;
 namespace Linq2OData.Tests
 {
     [TestClass]
-    public class QueryableHelpersTest
+    public class QueryableExtensionsTest
     {
         #region HasMethod
         [TestMethod]

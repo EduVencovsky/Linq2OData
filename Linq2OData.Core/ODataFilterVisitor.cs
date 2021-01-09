@@ -10,7 +10,7 @@ namespace Linq2OData.Core
     /// <summary>
     /// Used convert Expressions to OData.
     /// </summary>
-    public sealed class ODataFilter : ExpressionVisitor
+    public sealed class ODataFilterVisitor : ExpressionVisitor
     {
         private StringBuilder sb;
 
